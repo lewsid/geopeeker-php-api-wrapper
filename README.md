@@ -12,8 +12,8 @@ Example Usage
 	$wrapper = new GeoPeekerApiWrapper($public_key, $private_key);
     $response = $wrapper->doPeek('example.com', 'en', null, 1000, array(0 => 'virginia'), array(0 => '640x960'));
 
-Example Response
-----------------
+Example Response (formatted)
+----------------------------
 
     {
 	  "success": 1,
