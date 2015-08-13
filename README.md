@@ -1,5 +1,5 @@
-GeoPeekerApiWrapper 0.01
-========================
+GeoPeekerApiWrapper v0.01
+=========================
 
 This wrapper is for use with the GeoPeeker API, available to Pro and Enterprise users.
 
