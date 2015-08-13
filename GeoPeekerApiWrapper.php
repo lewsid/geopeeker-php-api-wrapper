@@ -21,14 +21,12 @@
  *		    "virginia": {
  *		      "ip": "93.184.216.34",
  *		      "ping": "2",
- *		      "dns": "<strong>DNS Records</strong><br>example.com name server a.iana-servers.net.<br />
- *						\nexample.com name server b.iana-servers.net.<br />\n<br><strong>A Records</strong><br>
- *						example.com has address 93.184.216.34<br />\n<br><strong>CNAME Records</strong><br>
- *						example.com has no CNAME record<br />\n<br><strong>MX Records</strong><br>example.com has 
- *						no MX record<br />\n<br><strong>TXT Records</strong><br>example.com descriptive text \
- *						"v=spf1 -all\"<br />\nexample.com descriptive text \"$Id: example.com 4380 2015-08-12 
- *						20:14:21Z davids $\"<br />\n<br><strong>SOA Records</strong><br>example.com has SOA record 
- *						sns.dns.icann.org. noc.dns.icann.org. 2015081206 7200 3600 1209600 3600<br />\n",
+ *		      "dns": "DNS Recordsexample.com name server b.iana-servers.net.\nexample.com name server a.iana-servers.
+ *					  net.\nA Recordsexample.com has address 93.184.216.34\nCNAME Recordsexample.com has no CNAME 
+ *    				  record\nMX Recordsexample.com has no MX record\nTXT Recordsexample.com descriptive text 
+ *					  \"v=spf1 -all\"\nexample.com descriptive text \"$Id: example.com 4380 2015-08-12 20:14:21Z 
+ *				      davids $\"\nSOA Recordsexample.com has SOA record sns.dns.icann.org. noc.dns.icann.org. 
+ *					  2015081206 7200 3600 1209600 3600\n",
  *		      "renders": {
  *		        "640x960": {
  *		          "original": "https://www.geopeeker.com/uploads/api/55ccb0a24abdb_en_640x960_4.png",
