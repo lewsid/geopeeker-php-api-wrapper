@@ -41,7 +41,7 @@
 
 class GeoPeekerApiWrapper
 {
-	public static $API_PATH = 'https://www.geopeeker.com/api/router';
+	public static $API_PATH = 'https://api.geopeeker.com/api/router';
 
 	private $private_key;
 
